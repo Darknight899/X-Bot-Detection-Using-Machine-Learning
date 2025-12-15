@@ -2,7 +2,7 @@
 Supervised Machine Learning for Detecting Bot Accounts on X (formerly Twitter)
 
 # Overview
-The final version of this project reflects feedback and suggestions from fellow classmate Ben S., which significantly improved the clarity, structure, and business relevance of the analysis. Using a publicly available dataset from Kaggle (https://www.kaggle.com/datasets/davidmartngutirrez/twitter-bots-accounts/versions/1), this repository contains the final project for MGT 661: Artificial Intelligence & Business Analytics, focused on detecting automated bot accounts on X (Twitter) using supervised machine learning techniques. Social Media Bots (SMBs) pose growing risks to brand perception, consumer trust, and the spread of misinformation. 
+The final version of this project reflects feedback and suggestions from fellow classmate Ben S., which significantly improved the clarity, structure, and business relevance of the analysis. Using a publicly available dataset from Kaggle (https://www.kaggle.com/datasets/davidmartngutirrez/twitter-bots-accounts/versions/1), this repository contains the final project for MGT 661: Artificial Intelligence & Business Analytics, focused on detecting automated bot accounts on X (Twitter) using supervised machine learning techniques.
 
 # Objectives 
 Learn about the advatnages of utlizing AI and its tools to solve a business problem. 
