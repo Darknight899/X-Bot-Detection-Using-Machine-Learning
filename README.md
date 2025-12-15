@@ -12,9 +12,9 @@ Address class imbalance using SMOTE to improve bot‑detection accuracy.
 Demonstrate the business risks posed by bots and how ML models can help mitigate them.
 
 # Models Used
-Logistic Regression (baseline model)
-Decision Tree Classifier
-Random Forest Classifier
+Logistic Regression,
+Decision Tree Classifier,
+Random Forest Classifier, and 
 XGBoost Classifier (best overall performer)
 
 # Metrics
