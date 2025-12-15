@@ -18,11 +18,11 @@ Random Forest Classifier, and
 XGBoost Classifier (best overall performer)
 
 # Metrics
-Accuracy
-Precision
-Recall
-F1‑Score
-ROC‑AUC
+- Accuracy
+- Precision
+- Recall
+- F1‑Score
+- ROC‑AUC
 
 # Results 
 XGBoost achieved the highest ROC‑AUC score of ~87.7%, outperforming all other models.
